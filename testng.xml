@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="karatandcarat">
+
+	<!-- <listeners>
+		<listener class-name="com.inetbanking.utilities.Reporting"></listener>
+	</listeners>-->
+
+
+	<test thread-count="5" name="karatandcarat test">
+		<parameter name="browser" value="chrome"></parameter>
+		<classes>
+			
+			<!--<class name="com.karatncarat.testCases.TC_Sales_Login" />
+		    <class name="com.karatncarat.testCases.TC_AddNew_Customer" />
+		    <class name="com.karatncarat.testCases.TC_Search_Customer" />-->
+          <class name="com.karatncarat.testCases.TC_Create_Design_Order" />
+
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
