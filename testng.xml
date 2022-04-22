@@ -13,8 +13,11 @@
 			
 			<!--<class name="com.karatncarat.testCases.TC_Sales_Login" />
 		    <class name="com.karatncarat.testCases.TC_AddNew_Customer" />
-		    <class name="com.karatncarat.testCases.TC_Search_Customer" />-->
-          <class name="com.karatncarat.testCases.TC_Create_Design_Order" />
+		    <class name="com.karatncarat.testCases.TC_Search_Customer" />
+          <class name="com.karatncarat.testCases.TC_Create_Design_Order" />-->
+          <class name="com.karatncarat.testCases.TC_OE_Login" />
+
+
 
 		</classes>
 	</test> <!-- Test -->

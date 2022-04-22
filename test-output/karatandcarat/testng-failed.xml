@@ -4,13 +4,13 @@
   <test thread-count="5" name="karatandcarat test(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.karatncarat.testCases.TC_Create_Design_Order">
+      <class name="com.karatncarat.testCases.TC_OE_Login">
         <methods>
-          <include name="createDesignTest" invocation-numbers="0"/>
-          <include name="setUp"/>
+          <include name="oeLoginTest"/>
+          <include name="SetUp"/>
           <include name="tearDown"/>
         </methods>
-      </class> <!-- com.karatncarat.testCases.TC_Create_Design_Order -->
+      </class> <!-- com.karatncarat.testCases.TC_OE_Login -->
     </classes>
   </test> <!-- karatandcarat test(failed) -->
 </suite> <!-- Failed suite [karatandcarat] -->

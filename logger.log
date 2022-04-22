@@ -8173,3 +8173,631 @@
 [INFO ] 2022-04-17 14:51:15.036 [main] Create_Design_Order - customer due month selected
 [INFO ] 2022-04-17 14:51:15.215 [main] Create_Design_Order - customer due year selected
 [INFO ] 2022-04-17 14:51:16.089 [main] Create_Design_Order - clicked on next button
+[INFO ] 2022-04-18 16:26:36.302 [main] Sales_Login - username is entered
+[INFO ] 2022-04-18 16:26:36.466 [main] Sales_Login - password is entered
+[INFO ] 2022-04-18 16:26:38.961 [main] Sales_Login - clicked on login button
+[INFO ] 2022-04-18 16:26:39.185 [main] Search_Customer - clicked on home/create document menu
+[INFO ] 2022-04-18 16:26:39.509 [main] Search_Customer - clicked on search customer
+[INFO ] 2022-04-18 16:26:40.970 [main] Search_Customer - clicked on add more filter button
+[INFO ] 2022-04-18 16:26:41.601 [main] Search_Customer - option type has been selected
+[INFO ] 2022-04-18 16:26:42.307 [main] Search_Customer - input has been given
+[INFO ] 2022-04-18 16:26:42.614 [main] Search_Customer - clicked on apply button
+[INFO ] 2022-04-18 16:26:42.768 [main] Search_Customer - Search button is clicked
+[INFO ] 2022-04-18 16:26:42.980 [main] Search_Customer - Search button is clicked
+[INFO ] 2022-04-18 16:26:48.683 [main] Create_Design_Order - clicked on action button
+[INFO ] 2022-04-18 16:26:49.518 [main] Create_Design_Order - Clicked on create design order
+[INFO ] 2022-04-18 16:26:50.103 [main] Create_Design_Order - segment type is selected
+[INFO ] 2022-04-18 16:26:50.608 [main] Create_Design_Order - jewel type is selected
+[INFO ] 2022-04-18 16:26:50.862 [main] Create_Design_Order - expected gross wt is entered
+[INFO ] 2022-04-18 16:26:51.145 [main] Create_Design_Order - expected net wt is entered
+[INFO ] 2022-04-18 16:26:51.257 [main] Create_Design_Order - clicked on design form
+[INFO ] 2022-04-18 16:26:51.497 [main] Create_Design_Order - clicked design due date
+[INFO ] 2022-04-18 16:26:52.069 [main] Create_Design_Order - Due date month has selected
+[INFO ] 2022-04-18 16:26:52.237 [main] Create_Design_Order - due date year has selected
+[INFO ] 2022-04-18 16:26:52.875 [main] Create_Design_Order - due day is selected
+[INFO ] 2022-04-18 16:26:53.027 [main] Create_Design_Order - designer is selected
+[INFO ] 2022-04-18 16:26:53.215 [main] Create_Design_Order - designer name is selected
+[INFO ] 2022-04-18 16:26:53.431 [main] Create_Design_Order - no of designs entered
+[INFO ] 2022-04-18 16:26:53.656 [main] Create_Design_Order - Page ref no is entered
+[INFO ] 2022-04-18 16:26:53.823 [main] Create_Design_Order - designs has been uploaded
+[INFO ] 2022-04-18 16:26:54.070 [main] Create_Design_Order - design instruction is entered
+[INFO ] 2022-04-18 16:26:54.284 [main] Create_Design_Order - intimation mode has selected
+[INFO ] 2022-04-18 16:26:54.452 [main] Create_Design_Order - clicked on customer due date
+[INFO ] 2022-04-18 16:26:54.725 [main] Create_Design_Order - customer due month selected
+[INFO ] 2022-04-18 16:26:54.929 [main] Create_Design_Order - customer due year selected
+[INFO ] 2022-04-18 16:26:56.249 [main] Create_Design_Order - clicked on next button
+[INFO ] 2022-04-18 16:47:59.919 [main] Sales_Login - username is entered
+[INFO ] 2022-04-18 16:48:00.115 [main] Sales_Login - password is entered
+[INFO ] 2022-04-18 16:48:02.623 [main] Sales_Login - clicked on login button
+[INFO ] 2022-04-18 16:48:02.788 [main] Search_Customer - clicked on home/create document menu
+[INFO ] 2022-04-18 16:48:02.979 [main] Search_Customer - clicked on search customer
+[INFO ] 2022-04-18 16:48:03.489 [main] Search_Customer - clicked on add more filter button
+[INFO ] 2022-04-18 16:48:03.941 [main] Search_Customer - option type has been selected
+[INFO ] 2022-04-18 16:48:04.348 [main] Search_Customer - input has been given
+[INFO ] 2022-04-18 16:48:04.492 [main] Search_Customer - clicked on apply button
+[INFO ] 2022-04-18 16:48:04.637 [main] Search_Customer - Search button is clicked
+[INFO ] 2022-04-18 16:48:04.807 [main] Search_Customer - Search button is clicked
+[INFO ] 2022-04-18 16:48:08.963 [main] Create_Design_Order - clicked on action button
+[INFO ] 2022-04-18 16:48:09.859 [main] Create_Design_Order - Clicked on create design order
+[INFO ] 2022-04-18 16:48:10.385 [main] Create_Design_Order - segment type is selected
+[INFO ] 2022-04-18 16:48:10.736 [main] Create_Design_Order - jewel type is selected
+[INFO ] 2022-04-18 16:48:11.044 [main] Create_Design_Order - expected gross wt is entered
+[INFO ] 2022-04-18 16:48:11.292 [main] Create_Design_Order - expected net wt is entered
+[INFO ] 2022-04-18 16:48:11.421 [main] Create_Design_Order - clicked on design form
+[INFO ] 2022-04-18 16:48:11.669 [main] Create_Design_Order - clicked design due date
+[INFO ] 2022-04-18 16:48:12.174 [main] Create_Design_Order - Due date month has selected
+[INFO ] 2022-04-18 16:48:12.485 [main] Create_Design_Order - due date year has selected
+[INFO ] 2022-04-18 16:48:13.087 [main] Create_Design_Order - due day is selected
+[INFO ] 2022-04-18 16:48:13.255 [main] Create_Design_Order - designer is selected
+[INFO ] 2022-04-18 16:48:13.449 [main] Create_Design_Order - designer name is selected
+[INFO ] 2022-04-18 16:48:13.673 [main] Create_Design_Order - no of designs entered
+[INFO ] 2022-04-18 16:48:13.937 [main] Create_Design_Order - Page ref no is entered
+[INFO ] 2022-04-18 16:48:14.097 [main] Create_Design_Order - designs has been uploaded
+[INFO ] 2022-04-18 16:48:14.352 [main] Create_Design_Order - design instruction is entered
+[INFO ] 2022-04-18 16:48:14.538 [main] Create_Design_Order - intimation mode has selected
+[INFO ] 2022-04-18 16:48:14.730 [main] Create_Design_Order - clicked on customer due date
+[INFO ] 2022-04-18 16:48:15.002 [main] Create_Design_Order - customer due month selected
+[INFO ] 2022-04-18 16:48:15.202 [main] Create_Design_Order - customer due year selected
+[INFO ] 2022-04-18 16:48:16.190 [main] Create_Design_Order - clicked on next button
+[INFO ] 2022-04-18 16:49:58.328 [main] Sales_Login - username is entered
+[INFO ] 2022-04-18 16:49:58.527 [main] Sales_Login - password is entered
+[INFO ] 2022-04-18 16:50:00.870 [main] Sales_Login - clicked on login button
+[INFO ] 2022-04-18 16:50:01.022 [main] Search_Customer - clicked on home/create document menu
+[INFO ] 2022-04-18 16:50:01.213 [main] Search_Customer - clicked on search customer
+[INFO ] 2022-04-18 16:50:01.686 [main] Search_Customer - clicked on add more filter button
+[INFO ] 2022-04-18 16:50:02.159 [main] Search_Customer - option type has been selected
+[INFO ] 2022-04-18 16:50:02.575 [main] Search_Customer - input has been given
+[INFO ] 2022-04-18 16:50:02.765 [main] Search_Customer - clicked on apply button
+[INFO ] 2022-04-18 16:50:02.941 [main] Search_Customer - Search button is clicked
+[INFO ] 2022-04-18 16:50:03.030 [main] Search_Customer - Search button is clicked
+[INFO ] 2022-04-18 16:50:07.010 [main] Create_Design_Order - clicked on action button
+[INFO ] 2022-04-18 16:50:07.808 [main] Create_Design_Order - Clicked on create design order
+[INFO ] 2022-04-18 16:50:08.318 [main] Create_Design_Order - segment type is selected
+[INFO ] 2022-04-18 16:50:08.675 [main] Create_Design_Order - jewel type is selected
+[INFO ] 2022-04-18 16:50:08.969 [main] Create_Design_Order - expected gross wt is entered
+[INFO ] 2022-04-18 16:50:09.262 [main] Create_Design_Order - expected net wt is entered
+[INFO ] 2022-04-18 16:50:09.377 [main] Create_Design_Order - clicked on design form
+[INFO ] 2022-04-18 16:50:09.626 [main] Create_Design_Order - clicked design due date
+[INFO ] 2022-04-18 16:50:10.062 [main] Create_Design_Order - Due date month has selected
+[INFO ] 2022-04-18 16:50:10.351 [main] Create_Design_Order - due date year has selected
+[INFO ] 2022-04-18 16:50:10.815 [main] Create_Design_Order - due day is selected
+[INFO ] 2022-04-18 16:50:10.943 [main] Create_Design_Order - designer is selected
+[INFO ] 2022-04-18 16:50:11.137 [main] Create_Design_Order - designer name is selected
+[INFO ] 2022-04-18 16:50:11.329 [main] Create_Design_Order - no of designs entered
+[INFO ] 2022-04-18 16:50:11.578 [main] Create_Design_Order - Page ref no is entered
+[INFO ] 2022-04-18 16:50:11.706 [main] Create_Design_Order - designs has been uploaded
+[INFO ] 2022-04-18 16:50:11.929 [main] Create_Design_Order - design instruction is entered
+[INFO ] 2022-04-18 16:50:12.097 [main] Create_Design_Order - intimation mode has selected
+[INFO ] 2022-04-18 16:50:12.273 [main] Create_Design_Order - clicked on customer due date
+[INFO ] 2022-04-18 16:50:12.482 [main] Create_Design_Order - customer due month selected
+[INFO ] 2022-04-18 16:50:12.709 [main] Create_Design_Order - customer due year selected
+[INFO ] 2022-04-18 16:50:13.555 [main] Create_Design_Order - clicked on next button
+[INFO ] 2022-04-18 17:01:34.968 [main] Sales_Login - username is entered
+[INFO ] 2022-04-18 17:01:35.177 [main] Sales_Login - password is entered
+[INFO ] 2022-04-18 17:01:37.592 [main] Sales_Login - clicked on login button
+[INFO ] 2022-04-18 17:01:37.784 [main] Search_Customer - clicked on home/create document menu
+[INFO ] 2022-04-18 17:01:38.010 [main] Search_Customer - clicked on search customer
+[INFO ] 2022-04-18 17:01:38.742 [main] Search_Customer - clicked on add more filter button
+[INFO ] 2022-04-18 17:01:39.545 [main] Search_Customer - option type has been selected
+[INFO ] 2022-04-18 17:01:40.145 [main] Search_Customer - input has been given
+[INFO ] 2022-04-18 17:01:40.362 [main] Search_Customer - clicked on apply button
+[INFO ] 2022-04-18 17:01:40.720 [main] Search_Customer - Search button is clicked
+[INFO ] 2022-04-18 17:01:41.072 [main] Search_Customer - Search button is clicked
+[INFO ] 2022-04-18 17:01:45.344 [main] Create_Design_Order - clicked on action button
+[INFO ] 2022-04-18 17:01:46.143 [main] Create_Design_Order - Clicked on create design order
+[INFO ] 2022-04-18 17:01:46.671 [main] Create_Design_Order - segment type is selected
+[INFO ] 2022-04-18 17:01:46.905 [main] Create_Design_Order - jewel type is selected
+[INFO ] 2022-04-18 17:01:47.161 [main] Create_Design_Order - expected gross wt is entered
+[INFO ] 2022-04-18 17:01:47.452 [main] Create_Design_Order - expected net wt is entered
+[INFO ] 2022-04-18 17:01:47.564 [main] Create_Design_Order - clicked on design form
+[INFO ] 2022-04-18 17:01:47.788 [main] Create_Design_Order - clicked design due date
+[INFO ] 2022-04-18 17:01:48.266 [main] Create_Design_Order - Due date month has selected
+[INFO ] 2022-04-18 17:01:48.534 [main] Create_Design_Order - due date year has selected
+[INFO ] 2022-04-18 17:01:48.999 [main] Create_Design_Order - due day is selected
+[INFO ] 2022-04-18 17:01:49.167 [main] Create_Design_Order - designer is selected
+[INFO ] 2022-04-18 17:01:49.333 [main] Create_Design_Order - designer name is selected
+[INFO ] 2022-04-18 17:01:49.525 [main] Create_Design_Order - no of designs entered
+[INFO ] 2022-04-18 17:01:49.781 [main] Create_Design_Order - Page ref no is entered
+[INFO ] 2022-04-18 17:01:50.053 [main] Create_Design_Order - designs has been uploaded
+[INFO ] 2022-04-18 17:01:50.243 [main] Create_Design_Order - design instruction is entered
+[INFO ] 2022-04-18 17:01:50.458 [main] Create_Design_Order - intimation mode has selected
+[INFO ] 2022-04-18 17:01:50.698 [main] Create_Design_Order - clicked on customer due date
+[INFO ] 2022-04-18 17:01:50.978 [main] Create_Design_Order - customer due month selected
+[INFO ] 2022-04-18 17:01:51.194 [main] Create_Design_Order - customer due year selected
+[INFO ] 2022-04-18 17:01:51.974 [main] Create_Design_Order - clicked on next button
+[INFO ] 2022-04-18 19:24:17.203 [main] Sales_Login - username is entered
+[INFO ] 2022-04-18 19:24:17.439 [main] Sales_Login - password is entered
+[INFO ] 2022-04-18 19:24:19.665 [main] Sales_Login - clicked on login button
+[INFO ] 2022-04-18 19:24:19.821 [main] Search_Customer - clicked on home/create document menu
+[INFO ] 2022-04-18 19:24:20.009 [main] Search_Customer - clicked on search customer
+[INFO ] 2022-04-18 19:24:20.491 [main] Search_Customer - clicked on add more filter button
+[INFO ] 2022-04-18 19:24:21.096 [main] Search_Customer - option type has been selected
+[INFO ] 2022-04-18 19:24:21.493 [main] Search_Customer - input has been given
+[INFO ] 2022-04-18 19:24:21.661 [main] Search_Customer - clicked on apply button
+[INFO ] 2022-04-18 19:24:21.813 [main] Search_Customer - Search button is clicked
+[INFO ] 2022-04-18 19:24:21.973 [main] Search_Customer - Search button is clicked
+[INFO ] 2022-04-18 19:54:10.041 [main] Sales_Login - username is entered
+[INFO ] 2022-04-18 19:54:10.255 [main] Sales_Login - password is entered
+[INFO ] 2022-04-18 19:54:13.020 [main] Sales_Login - clicked on login button
+[INFO ] 2022-04-18 19:54:13.226 [main] Search_Customer - clicked on home/create document menu
+[INFO ] 2022-04-18 19:54:13.386 [main] Search_Customer - clicked on search customer
+[INFO ] 2022-04-18 19:54:13.847 [main] Search_Customer - clicked on add more filter button
+[INFO ] 2022-04-18 19:54:14.353 [main] Search_Customer - option type has been selected
+[INFO ] 2022-04-18 19:54:14.763 [main] Search_Customer - input has been given
+[INFO ] 2022-04-18 19:54:14.925 [main] Search_Customer - clicked on apply button
+[INFO ] 2022-04-18 19:54:15.069 [main] Search_Customer - Search button is clicked
+[INFO ] 2022-04-18 19:54:15.325 [main] Search_Customer - Search button is clicked
+[INFO ] 2022-04-18 20:00:58.161 [main] Sales_Login - username is entered
+[INFO ] 2022-04-18 20:00:58.211 [main] Sales_Login - password is entered
+[INFO ] 2022-04-18 20:01:00.123 [main] Sales_Login - clicked on login button
+[INFO ] 2022-04-18 20:01:00.395 [main] Search_Customer - clicked on home/create document menu
+[INFO ] 2022-04-18 20:01:00.468 [main] Search_Customer - clicked on search customer
+[INFO ] 2022-04-18 20:01:00.966 [main] Search_Customer - clicked on add more filter button
+[INFO ] 2022-04-18 20:01:01.437 [main] Search_Customer - option type has been selected
+[INFO ] 2022-04-18 20:01:01.559 [main] Search_Customer - input has been given
+[INFO ] 2022-04-18 20:01:01.864 [main] Search_Customer - clicked on apply button
+[INFO ] 2022-04-18 20:01:02.132 [main] Search_Customer - Search button is clicked
+[INFO ] 2022-04-18 20:01:02.386 [main] Search_Customer - Search button is clicked
+[INFO ] 2022-04-18 20:01:05.091 [main] Create_Design_Order - clicked on action button
+[INFO ] 2022-04-18 20:01:37.894 [main] Sales_Login - username is entered
+[INFO ] 2022-04-18 20:01:38.014 [main] Sales_Login - password is entered
+[INFO ] 2022-04-18 20:01:40.049 [main] Sales_Login - clicked on login button
+[INFO ] 2022-04-18 20:01:40.139 [main] Search_Customer - clicked on home/create document menu
+[INFO ] 2022-04-18 20:01:40.248 [main] Search_Customer - clicked on search customer
+[INFO ] 2022-04-18 20:01:40.541 [main] Search_Customer - clicked on add more filter button
+[INFO ] 2022-04-18 20:01:40.830 [main] Search_Customer - option type has been selected
+[INFO ] 2022-04-18 20:01:41.065 [main] Search_Customer - input has been given
+[INFO ] 2022-04-18 20:01:41.154 [main] Search_Customer - clicked on apply button
+[INFO ] 2022-04-18 20:01:41.243 [main] Search_Customer - Search button is clicked
+[INFO ] 2022-04-18 20:01:41.285 [main] Search_Customer - Search button is clicked
+[INFO ] 2022-04-18 20:02:12.266 [main] Sales_Login - username is entered
+[INFO ] 2022-04-18 20:02:12.312 [main] Sales_Login - password is entered
+[INFO ] 2022-04-18 20:02:14.537 [main] Sales_Login - clicked on login button
+[INFO ] 2022-04-18 20:02:14.844 [main] Search_Customer - clicked on home/create document menu
+[INFO ] 2022-04-18 20:02:14.905 [main] Search_Customer - clicked on search customer
+[INFO ] 2022-04-18 20:02:15.452 [main] Search_Customer - clicked on add more filter button
+[INFO ] 2022-04-18 20:02:15.862 [main] Search_Customer - option type has been selected
+[INFO ] 2022-04-18 20:02:15.964 [main] Search_Customer - input has been given
+[INFO ] 2022-04-18 20:02:16.237 [main] Search_Customer - clicked on apply button
+[INFO ] 2022-04-18 20:02:16.489 [main] Search_Customer - Search button is clicked
+[INFO ] 2022-04-18 20:02:16.727 [main] Search_Customer - Search button is clicked
+[INFO ] 2022-04-18 20:02:18.784 [main] Create_Design_Order - clicked on action button
+[INFO ] 2022-04-18 20:02:18.827 [main] Create_Design_Order - Clicked on create design order
+[INFO ] 2022-04-18 20:02:19.449 [main] Create_Design_Order - segment type is selected
+[INFO ] 2022-04-18 20:02:19.717 [main] Create_Design_Order - jewel type is selected
+[INFO ] 2022-04-18 20:02:19.780 [main] Create_Design_Order - expected gross wt is entered
+[INFO ] 2022-04-18 20:02:19.862 [main] Create_Design_Order - expected net wt is entered
+[INFO ] 2022-04-18 20:02:20.109 [main] Create_Design_Order - clicked on design form
+[INFO ] 2022-04-18 20:02:20.377 [main] Create_Design_Order - clicked design due date
+[INFO ] 2022-04-18 20:02:20.895 [main] Create_Design_Order - Due date month has selected
+[INFO ] 2022-04-18 20:02:21.165 [main] Create_Design_Order - due date year has selected
+[INFO ] 2022-04-18 20:02:21.524 [main] Create_Design_Order - due day is selected
+[INFO ] 2022-04-18 20:02:21.555 [main] Create_Design_Order - designer is selected
+[INFO ] 2022-04-19 14:35:29.676 [main] Sales_Login - username is entered
+[INFO ] 2022-04-19 14:35:30.038 [main] Sales_Login - password is entered
+[INFO ] 2022-04-19 14:35:32.759 [main] Sales_Login - clicked on login button
+[INFO ] 2022-04-19 14:35:32.929 [main] Search_Customer - clicked on home/create document menu
+[INFO ] 2022-04-19 14:35:33.097 [main] Search_Customer - clicked on search customer
+[INFO ] 2022-04-19 14:35:33.570 [main] Search_Customer - clicked on add more filter button
+[INFO ] 2022-04-19 14:35:34.039 [main] Search_Customer - option type has been selected
+[INFO ] 2022-04-19 14:35:34.472 [main] Search_Customer - input has been given
+[INFO ] 2022-04-19 14:35:34.603 [main] Search_Customer - clicked on apply button
+[INFO ] 2022-04-19 14:35:34.787 [main] Search_Customer - Search button is clicked
+[INFO ] 2022-04-19 14:35:35.106 [main] Search_Customer - Search button is clicked
+[INFO ] 2022-04-19 14:35:39.077 [main] Create_Design_Order - clicked on action button
+[INFO ] 2022-04-19 14:35:39.790 [main] Create_Design_Order - Clicked on create design order
+[INFO ] 2022-04-19 14:35:40.415 [main] Create_Design_Order - segment type is selected
+[INFO ] 2022-04-19 14:35:40.683 [main] Create_Design_Order - jewel type is selected
+[INFO ] 2022-04-19 14:35:40.955 [main] Create_Design_Order - expected gross wt is entered
+[INFO ] 2022-04-19 14:35:41.317 [main] Create_Design_Order - expected net wt is entered
+[INFO ] 2022-04-19 14:35:41.472 [main] Create_Design_Order - clicked on design form
+[INFO ] 2022-04-19 14:35:41.768 [main] Create_Design_Order - clicked design due date
+[INFO ] 2022-04-19 14:35:42.221 [main] Create_Design_Order - Due date month has selected
+[INFO ] 2022-04-19 14:35:42.508 [main] Create_Design_Order - due date year has selected
+[INFO ] 2022-04-19 14:35:43.150 [main] Create_Design_Order - due day is selected
+[INFO ] 2022-04-19 14:35:43.370 [main] Create_Design_Order - designer is selected
+[INFO ] 2022-04-19 14:35:43.583 [main] Create_Design_Order - designer name is selected
+[INFO ] 2022-04-19 14:35:43.847 [main] Create_Design_Order - no of designs entered
+[INFO ] 2022-04-19 14:35:44.047 [main] Create_Design_Order - Page ref no is entered
+[INFO ] 2022-04-19 14:35:44.159 [main] Create_Design_Order - designs has been uploaded
+[INFO ] 2022-04-19 14:35:44.350 [main] Create_Design_Order - design instruction is entered
+[INFO ] 2022-04-19 14:35:44.512 [main] Create_Design_Order - intimation mode has selected
+[INFO ] 2022-04-19 14:35:44.672 [main] Create_Design_Order - clicked on customer due date
+[INFO ] 2022-04-19 14:35:44.972 [main] Create_Design_Order - customer due month selected
+[INFO ] 2022-04-19 14:35:45.170 [main] Create_Design_Order - customer due year selected
+[INFO ] 2022-04-19 14:35:46.290 [main] Create_Design_Order - clicked on next button
+[INFO ] 2022-04-20 16:08:27.202 [main] Sales_Login - username is entered
+[INFO ] 2022-04-20 16:08:27.341 [main] Sales_Login - password is entered
+[INFO ] 2022-04-20 16:08:29.386 [main] Sales_Login - clicked on login button
+[INFO ] 2022-04-20 16:08:29.538 [main] Search_Customer - clicked on home/create document menu
+[INFO ] 2022-04-20 16:08:29.642 [main] Search_Customer - clicked on search customer
+[INFO ] 2022-04-20 16:08:29.920 [main] Search_Customer - clicked on add more filter button
+[INFO ] 2022-04-20 16:08:30.223 [main] Search_Customer - option type has been selected
+[INFO ] 2022-04-20 16:08:30.470 [main] Search_Customer - input has been given
+[INFO ] 2022-04-20 16:08:30.574 [main] Search_Customer - clicked on apply button
+[INFO ] 2022-04-20 16:08:30.663 [main] Search_Customer - Search button is clicked
+[INFO ] 2022-04-20 16:08:30.773 [main] Search_Customer - Search button is clicked
+[INFO ] 2022-04-20 16:08:32.771 [main] Create_Design_Order - clicked on action button
+[INFO ] 2022-04-20 16:15:52.769 [main] Sales_Login - username is entered
+[INFO ] 2022-04-20 16:15:52.893 [main] Sales_Login - password is entered
+[INFO ] 2022-04-20 16:15:54.959 [main] Sales_Login - clicked on login button
+[INFO ] 2022-04-20 16:15:55.067 [main] Search_Customer - clicked on home/create document menu
+[INFO ] 2022-04-20 16:15:55.192 [main] Search_Customer - clicked on search customer
+[INFO ] 2022-04-20 16:15:55.518 [main] Search_Customer - clicked on add more filter button
+[INFO ] 2022-04-20 16:15:55.881 [main] Search_Customer - option type has been selected
+[INFO ] 2022-04-20 16:15:56.192 [main] Search_Customer - input has been given
+[INFO ] 2022-04-20 16:15:56.315 [main] Search_Customer - clicked on apply button
+[INFO ] 2022-04-20 16:15:56.431 [main] Search_Customer - Search button is clicked
+[INFO ] 2022-04-20 16:15:56.539 [main] Search_Customer - Search button is clicked
+[INFO ] 2022-04-20 16:15:58.916 [main] Create_Design_Order - clicked on action button
+[INFO ] 2022-04-20 16:15:59.438 [main] Create_Design_Order - Clicked on create design order
+[INFO ] 2022-04-20 16:15:59.721 [main] Create_Design_Order - segment type is selected
+[INFO ] 2022-04-20 16:15:59.933 [main] Create_Design_Order - jewel type is selected
+[INFO ] 2022-04-20 16:16:00.147 [main] Create_Design_Order - expected gross wt is entered
+[INFO ] 2022-04-20 16:16:00.353 [main] Create_Design_Order - expected net wt is entered
+[INFO ] 2022-04-20 16:16:00.444 [main] Create_Design_Order - clicked on design form
+[INFO ] 2022-04-20 16:16:00.601 [main] Create_Design_Order - clicked design due date
+[INFO ] 2022-04-20 16:16:00.938 [main] Create_Design_Order - Due date month has selected
+[INFO ] 2022-04-20 16:16:01.110 [main] Create_Design_Order - due date year has selected
+[INFO ] 2022-04-20 16:16:01.503 [main] Create_Design_Order - due day is selected
+[INFO ] 2022-04-20 16:16:01.609 [main] Create_Design_Order - designer is selected
+[INFO ] 2022-04-20 16:16:01.788 [main] Create_Design_Order - designer name is selected
+[INFO ] 2022-04-20 16:16:01.930 [main] Create_Design_Order - no of designs entered
+[INFO ] 2022-04-20 16:16:02.132 [main] Create_Design_Order - Page ref no is entered
+[INFO ] 2022-04-20 16:16:02.538 [main] Create_Design_Order - designs has been uploaded
+[INFO ] 2022-04-20 16:16:02.691 [main] Create_Design_Order - design instruction is entered
+[INFO ] 2022-04-20 16:16:02.825 [main] Create_Design_Order - intimation mode has selected
+[INFO ] 2022-04-20 16:16:02.947 [main] Create_Design_Order - clicked on customer due date
+[INFO ] 2022-04-20 16:16:03.099 [main] Create_Design_Order - customer due month selected
+[INFO ] 2022-04-20 16:16:03.230 [main] Create_Design_Order - customer due year selected
+[INFO ] 2022-04-20 16:16:03.798 [main] Create_Design_Order - clicked on next button
+[INFO ] 2022-04-21 12:39:40.443 [main] Sales_Login - username is entered
+[INFO ] 2022-04-21 12:39:40.655 [main] Sales_Login - password is entered
+[INFO ] 2022-04-21 12:39:43.003 [main] Sales_Login - clicked on login button
+[INFO ] 2022-04-21 12:39:43.228 [main] Search_Customer - clicked on home/create document menu
+[INFO ] 2022-04-21 12:39:43.448 [main] Search_Customer - clicked on search customer
+[INFO ] 2022-04-21 12:40:41.021 [main] Sales_Login - username is entered
+[INFO ] 2022-04-21 12:40:41.229 [main] Sales_Login - password is entered
+[INFO ] 2022-04-21 12:40:43.379 [main] Sales_Login - clicked on login button
+[INFO ] 2022-04-21 12:40:43.533 [main] Search_Customer - clicked on home/create document menu
+[INFO ] 2022-04-21 12:40:43.748 [main] Search_Customer - clicked on search customer
+[INFO ] 2022-04-21 12:43:10.310 [main] Sales_Login - username is entered
+[INFO ] 2022-04-21 12:43:10.482 [main] Sales_Login - password is entered
+[INFO ] 2022-04-21 12:43:12.979 [main] Sales_Login - clicked on login button
+[INFO ] 2022-04-21 12:43:13.142 [main] Search_Customer - clicked on home/create document menu
+[INFO ] 2022-04-21 12:43:13.330 [main] Search_Customer - clicked on search customer
+[INFO ] 2022-04-21 12:43:13.744 [main] Search_Customer - clicked on add more filter button
+[INFO ] 2022-04-21 12:43:14.286 [main] Search_Customer - option type has been selected
+[INFO ] 2022-04-21 12:43:14.720 [main] Search_Customer - input has been given
+[INFO ] 2022-04-21 12:43:14.849 [main] Search_Customer - clicked on apply button
+[INFO ] 2022-04-21 12:43:14.977 [main] Search_Customer - Search button is clicked
+[INFO ] 2022-04-21 12:43:15.143 [main] Search_Customer - Search button is clicked
+[INFO ] 2022-04-21 12:43:18.704 [main] Create_Design_Order - clicked on action button
+[INFO ] 2022-04-21 12:43:19.425 [main] Create_Design_Order - Clicked on create design order
+[INFO ] 2022-04-21 12:43:19.889 [main] Create_Design_Order - segment type is selected
+[INFO ] 2022-04-21 12:43:20.168 [main] Create_Design_Order - jewel type is selected
+[INFO ] 2022-04-21 12:43:20.455 [main] Create_Design_Order - expected gross wt is entered
+[INFO ] 2022-04-21 12:43:20.707 [main] Create_Design_Order - expected net wt is entered
+[INFO ] 2022-04-21 12:43:20.823 [main] Create_Design_Order - clicked on design form
+[INFO ] 2022-04-21 12:43:21.056 [main] Create_Design_Order - clicked design due date
+[INFO ] 2022-04-21 12:43:21.499 [main] Create_Design_Order - Due date month has selected
+[INFO ] 2022-04-21 12:43:21.742 [main] Create_Design_Order - due date year has selected
+[INFO ] 2022-04-21 12:43:22.339 [main] Create_Design_Order - due day is selected
+[INFO ] 2022-04-21 12:43:22.515 [main] Create_Design_Order - designer is selected
+[INFO ] 2022-04-21 12:43:22.742 [main] Create_Design_Order - designer name is selected
+[INFO ] 2022-04-21 12:43:23.022 [main] Create_Design_Order - no of designs entered
+[INFO ] 2022-04-21 12:43:23.269 [main] Create_Design_Order - Page ref no is entered
+[INFO ] 2022-04-21 12:43:23.397 [main] Create_Design_Order - designs has been uploaded
+[INFO ] 2022-04-21 12:43:23.658 [main] Create_Design_Order - design instruction is entered
+[INFO ] 2022-04-21 12:43:23.809 [main] Create_Design_Order - intimation mode has selected
+[INFO ] 2022-04-21 12:43:23.953 [main] Create_Design_Order - clicked on customer due date
+[INFO ] 2022-04-21 12:43:24.240 [main] Create_Design_Order - customer due month selected
+[INFO ] 2022-04-21 12:43:24.464 [main] Create_Design_Order - customer due year selected
+[INFO ] 2022-04-21 12:43:25.239 [main] Create_Design_Order - clicked on next button
+[INFO ] 2022-04-21 15:36:33.532 [main] Sales_Login - username is entered
+[INFO ] 2022-04-21 15:36:33.792 [main] Sales_Login - password is entered
+[INFO ] 2022-04-21 15:36:37.322 [main] Sales_Login - clicked on login button
+[INFO ] 2022-04-21 15:36:37.521 [main] Search_Customer - clicked on home/create document menu
+[INFO ] 2022-04-21 15:36:37.706 [main] Search_Customer - clicked on search customer
+[INFO ] 2022-04-21 15:36:38.293 [main] Search_Customer - clicked on add more filter button
+[INFO ] 2022-04-21 15:36:38.736 [main] Search_Customer - option type has been selected
+[INFO ] 2022-04-21 15:36:39.201 [main] Search_Customer - input has been given
+[INFO ] 2022-04-21 15:36:39.345 [main] Search_Customer - clicked on apply button
+[INFO ] 2022-04-21 15:36:39.489 [main] Search_Customer - Search button is clicked
+[INFO ] 2022-04-21 15:36:39.665 [main] Search_Customer - Search button is clicked
+[INFO ] 2022-04-21 15:36:43.583 [main] Create_Design_Order - clicked on action button
+[INFO ] 2022-04-21 15:36:44.319 [main] Create_Design_Order - Clicked on create design order
+[INFO ] 2022-04-21 15:36:44.824 [main] Create_Design_Order - segment type is selected
+[INFO ] 2022-04-21 15:36:45.213 [main] Create_Design_Order - jewel type is selected
+[INFO ] 2022-04-21 15:36:45.485 [main] Create_Design_Order - expected gross wt is entered
+[INFO ] 2022-04-21 15:36:45.743 [main] Create_Design_Order - expected net wt is entered
+[INFO ] 2022-04-21 15:36:45.862 [main] Create_Design_Order - clicked on design form
+[INFO ] 2022-04-21 15:36:46.102 [main] Create_Design_Order - clicked design due date
+[INFO ] 2022-04-21 15:36:46.590 [main] Create_Design_Order - Due date month has selected
+[INFO ] 2022-04-21 15:36:46.862 [main] Create_Design_Order - due date year has selected
+[INFO ] 2022-04-21 15:36:47.424 [main] Create_Design_Order - due day is selected
+[INFO ] 2022-04-21 15:36:47.608 [main] Create_Design_Order - designer is selected
+[INFO ] 2022-04-21 15:36:47.813 [main] Create_Design_Order - designer name is selected
+[INFO ] 2022-04-21 15:36:48.013 [main] Create_Design_Order - no of designs entered
+[INFO ] 2022-04-21 15:36:48.245 [main] Create_Design_Order - Page ref no is entered
+[INFO ] 2022-04-21 15:36:48.397 [main] Create_Design_Order - designs has been uploaded
+[INFO ] 2022-04-21 15:36:48.629 [main] Create_Design_Order - design instruction is entered
+[INFO ] 2022-04-21 15:36:48.846 [main] Create_Design_Order - intimation mode has selected
+[INFO ] 2022-04-21 15:36:49.054 [main] Create_Design_Order - clicked on customer due date
+[INFO ] 2022-04-21 15:36:49.318 [main] Create_Design_Order - customer due month selected
+[INFO ] 2022-04-21 15:36:49.543 [main] Create_Design_Order - customer due year selected
+[INFO ] 2022-04-21 15:36:50.539 [main] Create_Design_Order - clicked on next button
+[INFO ] 2022-04-22 07:16:28.690 [main] Sales_Login - username is entered
+[INFO ] 2022-04-22 07:16:28.901 [main] Sales_Login - password is entered
+[INFO ] 2022-04-22 07:16:31.064 [main] Sales_Login - clicked on login button
+[INFO ] 2022-04-22 07:16:31.233 [main] Search_Customer - clicked on home/create document menu
+[INFO ] 2022-04-22 07:16:31.435 [main] Search_Customer - clicked on search customer
+[INFO ] 2022-04-22 07:16:31.912 [main] Search_Customer - clicked on add more filter button
+[INFO ] 2022-04-22 07:16:32.411 [main] Search_Customer - option type has been selected
+[INFO ] 2022-04-22 07:16:32.807 [main] Search_Customer - input has been given
+[INFO ] 2022-04-22 07:16:32.966 [main] Search_Customer - clicked on apply button
+[INFO ] 2022-04-22 07:16:33.100 [main] Search_Customer - Search button is clicked
+[INFO ] 2022-04-22 07:16:33.267 [main] Search_Customer - Search button is clicked
+[INFO ] 2022-04-22 07:16:38.197 [main] Create_Design_Order - clicked on action button
+[INFO ] 2022-04-22 07:16:38.960 [main] Create_Design_Order - Clicked on create design order
+[INFO ] 2022-04-22 07:16:39.406 [main] Create_Design_Order - segment type is selected
+[INFO ] 2022-04-22 07:16:39.749 [main] Create_Design_Order - jewel type is selected
+[INFO ] 2022-04-22 07:16:40.081 [main] Create_Design_Order - expected gross wt is entered
+[INFO ] 2022-04-22 07:16:40.359 [main] Create_Design_Order - expected net wt is entered
+[INFO ] 2022-04-22 07:16:40.478 [main] Create_Design_Order - clicked on design form
+[INFO ] 2022-04-22 07:16:40.699 [main] Create_Design_Order - clicked design due date
+[INFO ] 2022-04-22 07:16:41.149 [main] Create_Design_Order - Due date month has selected
+[INFO ] 2022-04-22 07:16:41.476 [main] Create_Design_Order - due date year has selected
+[INFO ] 2022-04-22 07:16:41.944 [main] Create_Design_Order - due day is selected
+[INFO ] 2022-04-22 07:16:42.058 [main] Create_Design_Order - designer is selected
+[INFO ] 2022-04-22 07:16:42.237 [main] Create_Design_Order - designer name is selected
+[INFO ] 2022-04-22 07:16:42.401 [main] Create_Design_Order - no of designs entered
+[INFO ] 2022-04-22 07:16:42.702 [main] Create_Design_Order - Page ref no is entered
+[INFO ] 2022-04-22 07:16:42.807 [main] Create_Design_Order - designs has been uploaded
+[INFO ] 2022-04-22 07:16:43.040 [main] Create_Design_Order - design instruction is entered
+[INFO ] 2022-04-22 07:16:43.315 [main] Create_Design_Order - intimation mode has selected
+[INFO ] 2022-04-22 07:16:43.528 [main] Create_Design_Order - clicked on customer due date
+[INFO ] 2022-04-22 07:16:43.807 [main] Create_Design_Order - customer due month selected
+[INFO ] 2022-04-22 07:16:44.013 [main] Create_Design_Order - customer due year selected
+[INFO ] 2022-04-22 07:16:45.029 [main] Create_Design_Order - clicked on next button
+[INFO ] 2022-04-22 07:17:28.734 [main] Sales_Login - username is entered
+[INFO ] 2022-04-22 07:17:28.963 [main] Sales_Login - password is entered
+[INFO ] 2022-04-22 07:17:31.135 [main] Sales_Login - clicked on login button
+[INFO ] 2022-04-22 07:17:31.330 [main] Search_Customer - clicked on home/create document menu
+[INFO ] 2022-04-22 07:17:31.511 [main] Search_Customer - clicked on search customer
+[INFO ] 2022-04-22 07:17:32.896 [main] Search_Customer - clicked on add more filter button
+[INFO ] 2022-04-22 07:17:33.396 [main] Search_Customer - option type has been selected
+[INFO ] 2022-04-22 07:17:33.898 [main] Search_Customer - input has been given
+[INFO ] 2022-04-22 07:17:34.380 [main] Search_Customer - clicked on apply button
+[INFO ] 2022-04-22 07:17:34.716 [main] Search_Customer - Search button is clicked
+[INFO ] 2022-04-22 07:17:34.973 [main] Search_Customer - Search button is clicked
+[INFO ] 2022-04-22 07:17:39.980 [main] Create_Design_Order - clicked on action button
+[INFO ] 2022-04-22 07:17:40.972 [main] Create_Design_Order - Clicked on create design order
+[INFO ] 2022-04-22 07:17:41.310 [main] Create_Design_Order - segment type is selected
+[INFO ] 2022-04-22 07:17:41.695 [main] Create_Design_Order - jewel type is selected
+[INFO ] 2022-04-22 07:17:42.006 [main] Create_Design_Order - expected gross wt is entered
+[INFO ] 2022-04-22 07:17:42.279 [main] Create_Design_Order - expected net wt is entered
+[INFO ] 2022-04-22 07:17:42.407 [main] Create_Design_Order - clicked on design form
+[INFO ] 2022-04-22 07:17:42.642 [main] Create_Design_Order - clicked design due date
+[INFO ] 2022-04-22 07:17:43.191 [main] Create_Design_Order - Due date month has selected
+[INFO ] 2022-04-22 07:17:43.394 [main] Create_Design_Order - due date year has selected
+[INFO ] 2022-04-22 07:17:43.889 [main] Create_Design_Order - due day is selected
+[INFO ] 2022-04-22 07:17:44.052 [main] Create_Design_Order - designer is selected
+[INFO ] 2022-04-22 07:17:44.292 [main] Create_Design_Order - designer name is selected
+[INFO ] 2022-04-22 07:17:44.508 [main] Create_Design_Order - no of designs entered
+[INFO ] 2022-04-22 07:17:45.159 [main] Create_Design_Order - Page ref no is entered
+[INFO ] 2022-04-22 07:17:45.466 [main] Create_Design_Order - designs has been uploaded
+[INFO ] 2022-04-22 07:17:45.671 [main] Create_Design_Order - design instruction is entered
+[INFO ] 2022-04-22 07:17:45.958 [main] Create_Design_Order - intimation mode has selected
+[INFO ] 2022-04-22 07:17:46.144 [main] Create_Design_Order - clicked on customer due date
+[INFO ] 2022-04-22 07:17:46.425 [main] Create_Design_Order - customer due month selected
+[INFO ] 2022-04-22 07:17:46.643 [main] Create_Design_Order - customer due year selected
+[INFO ] 2022-04-22 07:17:47.718 [main] Create_Design_Order - clicked on next button
+[INFO ] 2022-04-22 07:18:19.789 [main] Sales_Login - username is entered
+[INFO ] 2022-04-22 07:18:20.073 [main] Sales_Login - password is entered
+[INFO ] 2022-04-22 07:18:23.282 [main] Sales_Login - clicked on login button
+[INFO ] 2022-04-22 07:18:23.495 [main] Search_Customer - clicked on home/create document menu
+[INFO ] 2022-04-22 07:18:23.651 [main] Search_Customer - clicked on search customer
+[INFO ] 2022-04-22 07:18:24.106 [main] Search_Customer - clicked on add more filter button
+[INFO ] 2022-04-22 07:18:24.714 [main] Search_Customer - option type has been selected
+[INFO ] 2022-04-22 07:18:25.157 [main] Search_Customer - input has been given
+[INFO ] 2022-04-22 07:18:25.304 [main] Search_Customer - clicked on apply button
+[INFO ] 2022-04-22 07:18:25.484 [main] Search_Customer - Search button is clicked
+[INFO ] 2022-04-22 07:18:25.612 [main] Search_Customer - Search button is clicked
+[INFO ] 2022-04-22 07:18:30.262 [main] Create_Design_Order - clicked on action button
+[INFO ] 2022-04-22 07:18:30.757 [main] Create_Design_Order - Clicked on create design order
+[INFO ] 2022-04-22 07:30:25.671 [main] Sales_Login - username is entered
+[INFO ] 2022-04-22 07:30:25.733 [main] Sales_Login - password is entered
+[INFO ] 2022-04-22 07:30:28.055 [main] Sales_Login - clicked on login button
+[INFO ] 2022-04-22 07:30:28.401 [main] Search_Customer - clicked on home/create document menu
+[INFO ] 2022-04-22 07:30:28.476 [main] Search_Customer - clicked on search customer
+[INFO ] 2022-04-22 07:30:29.058 [main] Search_Customer - clicked on add more filter button
+[INFO ] 2022-04-22 07:30:29.508 [main] Search_Customer - option type has been selected
+[INFO ] 2022-04-22 07:30:29.695 [main] Search_Customer - input has been given
+[INFO ] 2022-04-22 07:30:29.993 [main] Search_Customer - clicked on apply button
+[INFO ] 2022-04-22 07:30:30.289 [main] Search_Customer - Search button is clicked
+[INFO ] 2022-04-22 07:30:30.571 [main] Search_Customer - Search button is clicked
+[INFO ] 2022-04-22 07:30:33.063 [main] Create_Design_Order - clicked on action button
+[INFO ] 2022-04-22 07:30:33.145 [main] Create_Design_Order - Clicked on create design order
+[INFO ] 2022-04-22 07:30:33.875 [main] Create_Design_Order - segment type is selected
+[INFO ] 2022-04-22 07:30:34.156 [main] Create_Design_Order - jewel type is selected
+[INFO ] 2022-04-22 07:30:34.256 [main] Create_Design_Order - expected gross wt is entered
+[INFO ] 2022-04-22 07:30:34.402 [main] Create_Design_Order - expected net wt is entered
+[INFO ] 2022-04-22 07:30:34.654 [main] Create_Design_Order - clicked on design form
+[INFO ] 2022-04-22 07:30:34.949 [main] Create_Design_Order - clicked design due date
+[INFO ] 2022-04-22 07:30:35.548 [main] Create_Design_Order - Due date month has selected
+[INFO ] 2022-04-22 07:30:35.867 [main] Create_Design_Order - due date year has selected
+[INFO ] 2022-04-22 07:30:36.299 [main] Create_Design_Order - due day is selected
+[INFO ] 2022-04-22 07:30:36.335 [main] Create_Design_Order - designer is selected
+[INFO ] 2022-04-22 07:34:03.644 [main] Sales_Login - username is entered
+[INFO ] 2022-04-22 07:34:03.784 [main] Sales_Login - password is entered
+[INFO ] 2022-04-22 07:34:05.837 [main] Sales_Login - clicked on login button
+[INFO ] 2022-04-22 07:34:05.994 [main] Search_Customer - clicked on home/create document menu
+[INFO ] 2022-04-22 07:34:06.148 [main] Search_Customer - clicked on search customer
+[INFO ] 2022-04-22 07:34:06.470 [main] Search_Customer - clicked on add more filter button
+[INFO ] 2022-04-22 07:34:06.847 [main] Search_Customer - option type has been selected
+[INFO ] 2022-04-22 07:34:07.191 [main] Search_Customer - input has been given
+[INFO ] 2022-04-22 07:34:07.318 [main] Search_Customer - clicked on apply button
+[INFO ] 2022-04-22 07:34:07.417 [main] Search_Customer - Search button is clicked
+[INFO ] 2022-04-22 07:34:07.544 [main] Search_Customer - Search button is clicked
+[INFO ] 2022-04-22 07:34:10.478 [main] Create_Design_Order - clicked on action button
+[INFO ] 2022-04-22 07:34:15.242 [main] Create_Design_Order - Clicked on create design order
+[INFO ] 2022-04-22 07:36:12.904 [main] Sales_Login - username is entered
+[INFO ] 2022-04-22 07:36:13.018 [main] Sales_Login - password is entered
+[INFO ] 2022-04-22 07:36:15.017 [main] Sales_Login - clicked on login button
+[INFO ] 2022-04-22 07:36:15.162 [main] Search_Customer - clicked on home/create document menu
+[INFO ] 2022-04-22 07:36:15.320 [main] Search_Customer - clicked on search customer
+[INFO ] 2022-04-22 07:36:15.641 [main] Search_Customer - clicked on add more filter button
+[INFO ] 2022-04-22 07:36:16.021 [main] Search_Customer - option type has been selected
+[INFO ] 2022-04-22 07:36:16.301 [main] Search_Customer - input has been given
+[INFO ] 2022-04-22 07:36:16.489 [main] Search_Customer - clicked on apply button
+[INFO ] 2022-04-22 07:36:16.584 [main] Search_Customer - Search button is clicked
+[INFO ] 2022-04-22 07:36:16.705 [main] Search_Customer - Search button is clicked
+[INFO ] 2022-04-22 07:36:19.308 [main] Create_Design_Order - clicked on action button
+[INFO ] 2022-04-22 07:36:19.744 [main] Create_Design_Order - Clicked on create design order
+[INFO ] 2022-04-22 07:36:20.126 [main] Create_Design_Order - segment type is selected
+[INFO ] 2022-04-22 07:36:20.393 [main] Create_Design_Order - jewel type is selected
+[INFO ] 2022-04-22 07:36:20.637 [main] Create_Design_Order - expected gross wt is entered
+[INFO ] 2022-04-22 07:36:20.837 [main] Create_Design_Order - expected net wt is entered
+[INFO ] 2022-04-22 07:36:20.946 [main] Create_Design_Order - clicked on design form
+[INFO ] 2022-04-22 07:36:21.137 [main] Create_Design_Order - clicked design due date
+[INFO ] 2022-04-22 07:36:21.485 [main] Create_Design_Order - Due date month has selected
+[INFO ] 2022-04-22 07:36:21.681 [main] Create_Design_Order - due date year has selected
+[INFO ] 2022-04-22 07:36:22.150 [main] Create_Design_Order - due day is selected
+[INFO ] 2022-04-22 07:36:22.236 [main] Create_Design_Order - designer is selected
+[INFO ] 2022-04-22 07:36:22.391 [main] Create_Design_Order - designer name is selected
+[INFO ] 2022-04-22 07:36:22.573 [main] Create_Design_Order - no of designs entered
+[INFO ] 2022-04-22 07:36:22.734 [main] Create_Design_Order - Page ref no is entered
+[INFO ] 2022-04-22 07:36:22.820 [main] Create_Design_Order - designs has been uploaded
+[INFO ] 2022-04-22 07:36:22.968 [main] Create_Design_Order - design instruction is entered
+[INFO ] 2022-04-22 07:36:23.319 [main] Create_Design_Order - intimation mode has selected
+[INFO ] 2022-04-22 07:36:23.679 [main] Create_Design_Order - clicked on customer due date
+[INFO ] 2022-04-22 07:36:24.009 [main] Create_Design_Order - customer due month selected
+[INFO ] 2022-04-22 07:36:24.361 [main] Create_Design_Order - customer due year selected
+[INFO ] 2022-04-22 07:36:25.807 [main] Create_Design_Order - clicked on next button
+[INFO ] 2022-04-22 07:37:05.304 [main] Sales_Login - username is entered
+[INFO ] 2022-04-22 07:37:05.480 [main] Sales_Login - password is entered
+[INFO ] 2022-04-22 07:37:08.218 [main] Sales_Login - clicked on login button
+[INFO ] 2022-04-22 07:37:08.489 [main] Search_Customer - clicked on home/create document menu
+[INFO ] 2022-04-22 07:37:08.684 [main] Search_Customer - clicked on search customer
+[INFO ] 2022-04-22 07:37:09.520 [main] Search_Customer - clicked on add more filter button
+[INFO ] 2022-04-22 07:37:10.809 [main] Search_Customer - option type has been selected
+[INFO ] 2022-04-22 07:37:11.264 [main] Search_Customer - input has been given
+[INFO ] 2022-04-22 07:37:11.423 [main] Search_Customer - clicked on apply button
+[INFO ] 2022-04-22 07:37:11.596 [main] Search_Customer - Search button is clicked
+[INFO ] 2022-04-22 07:37:11.769 [main] Search_Customer - Search button is clicked
+[INFO ] 2022-04-22 07:37:17.265 [main] Create_Design_Order - clicked on action button
+[INFO ] 2022-04-22 07:37:18.180 [main] Create_Design_Order - Clicked on create design order
+[INFO ] 2022-04-22 07:37:19.106 [main] Create_Design_Order - segment type is selected
+[INFO ] 2022-04-22 07:37:19.716 [main] Create_Design_Order - jewel type is selected
+[INFO ] 2022-04-22 07:37:20.149 [main] Create_Design_Order - expected gross wt is entered
+[INFO ] 2022-04-22 07:37:20.621 [main] Create_Design_Order - expected net wt is entered
+[INFO ] 2022-04-22 07:37:20.809 [main] Create_Design_Order - clicked on design form
+[INFO ] 2022-04-22 07:37:22.079 [main] Create_Design_Order - clicked design due date
+[INFO ] 2022-04-22 07:37:22.686 [main] Create_Design_Order - Due date month has selected
+[INFO ] 2022-04-22 07:37:23.023 [main] Create_Design_Order - due date year has selected
+[INFO ] 2022-04-22 07:37:23.777 [main] Create_Design_Order - due day is selected
+[INFO ] 2022-04-22 07:37:23.942 [main] Create_Design_Order - designer is selected
+[INFO ] 2022-04-22 07:37:24.215 [main] Create_Design_Order - designer name is selected
+[INFO ] 2022-04-22 07:37:24.516 [main] Create_Design_Order - no of designs entered
+[INFO ] 2022-04-22 07:37:25.097 [main] Create_Design_Order - Page ref no is entered
+[INFO ] 2022-04-22 07:37:25.205 [main] Create_Design_Order - designs has been uploaded
+[INFO ] 2022-04-22 07:37:25.365 [main] Create_Design_Order - design instruction is entered
+[INFO ] 2022-04-22 07:37:25.541 [main] Create_Design_Order - intimation mode has selected
+[INFO ] 2022-04-22 07:37:25.672 [main] Create_Design_Order - clicked on customer due date
+[INFO ] 2022-04-22 07:37:25.831 [main] Create_Design_Order - customer due month selected
+[INFO ] 2022-04-22 07:37:25.996 [main] Create_Design_Order - customer due year selected
+[INFO ] 2022-04-22 07:37:26.992 [main] Create_Design_Order - clicked on next button
+[INFO ] 2022-04-22 08:26:31.383 [main] Sales_Login - username is entered
+[INFO ] 2022-04-22 08:26:31.534 [main] Sales_Login - password is entered
+[INFO ] 2022-04-22 08:26:33.741 [main] Sales_Login - clicked on login button
+[INFO ] 2022-04-22 08:27:01.816 [main] Sales_Login - username is entered
+[INFO ] 2022-04-22 08:27:01.960 [main] Sales_Login - password is entered
+[INFO ] 2022-04-22 08:27:04.412 [main] Sales_Login - clicked on login button
+[INFO ] 2022-04-22 08:40:22.889 [main] Sales_Login - username is entered
+[INFO ] 2022-04-22 08:40:23.042 [main] Sales_Login - password is entered
+[INFO ] 2022-04-22 08:40:25.251 [main] Sales_Login - clicked on login button
+[INFO ] 2022-04-22 08:42:14.867 [main] Sales_Login - username is entered
+[INFO ] 2022-04-22 08:42:15.008 [main] Sales_Login - password is entered
+[INFO ] 2022-04-22 08:42:17.773 [main] Sales_Login - clicked on login button
+[INFO ] 2022-04-22 08:42:17.879 [main] Search_Customer - clicked on home/create document menu
+[INFO ] 2022-04-22 08:42:18.011 [main] Search_Customer - clicked on search customer
+[INFO ] 2022-04-22 08:42:18.594 [main] Search_Customer - clicked on add more filter button
+[INFO ] 2022-04-22 08:42:18.998 [main] Search_Customer - option type has been selected
+[INFO ] 2022-04-22 08:42:19.309 [main] Search_Customer - input has been given
+[INFO ] 2022-04-22 08:42:19.412 [main] Search_Customer - clicked on apply button
+[INFO ] 2022-04-22 08:42:19.527 [main] Search_Customer - Search button is clicked
+[INFO ] 2022-04-22 08:42:19.585 [main] Search_Customer - Search button is clicked
+[INFO ] 2022-04-22 08:42:22.996 [main] Create_Design_Order - clicked on action button
+[INFO ] 2022-04-22 08:42:23.724 [main] Create_Design_Order - Clicked on create design order
+[INFO ] 2022-04-22 08:42:24.307 [main] Create_Design_Order - segment type is selected
+[INFO ] 2022-04-22 08:42:24.570 [main] Create_Design_Order - jewel type is selected
+[INFO ] 2022-04-22 08:42:24.753 [main] Create_Design_Order - expected gross wt is entered
+[INFO ] 2022-04-22 08:42:24.938 [main] Create_Design_Order - expected net wt is entered
+[INFO ] 2022-04-22 08:42:25.031 [main] Create_Design_Order - clicked on design form
+[INFO ] 2022-04-22 08:42:25.264 [main] Create_Design_Order - clicked design due date
+[INFO ] 2022-04-22 08:42:25.612 [main] Create_Design_Order - Due date month has selected
+[INFO ] 2022-04-22 08:42:25.809 [main] Create_Design_Order - due date year has selected
+[INFO ] 2022-04-22 08:42:26.249 [main] Create_Design_Order - due day is selected
+[INFO ] 2022-04-22 08:42:26.331 [main] Create_Design_Order - designer is selected
+[INFO ] 2022-04-22 08:42:26.515 [main] Create_Design_Order - designer name is selected
+[INFO ] 2022-04-22 08:42:26.645 [main] Create_Design_Order - no of designs entered
+[INFO ] 2022-04-22 08:42:26.795 [main] Create_Design_Order - Page ref no is entered
+[INFO ] 2022-04-22 08:42:26.931 [main] Create_Design_Order - designs has been uploaded
+[INFO ] 2022-04-22 08:42:27.129 [main] Create_Design_Order - design instruction is entered
+[INFO ] 2022-04-22 08:42:27.277 [main] Create_Design_Order - intimation mode has selected
+[INFO ] 2022-04-22 08:42:27.447 [main] Create_Design_Order - clicked on customer due date
+[INFO ] 2022-04-22 08:42:27.721 [main] Create_Design_Order - customer due month selected
+[INFO ] 2022-04-22 08:42:27.907 [main] Create_Design_Order - customer due year selected
+[INFO ] 2022-04-22 08:42:28.792 [main] Create_Design_Order - clicked on next button
+[INFO ] 2022-04-22 08:42:50.273 [main] Sales_Login - username is entered
+[INFO ] 2022-04-22 08:42:50.436 [main] Sales_Login - password is entered
+[INFO ] 2022-04-22 08:42:52.996 [main] Sales_Login - clicked on login button
+[INFO ] 2022-04-22 08:42:53.137 [main] Search_Customer - clicked on home/create document menu
+[INFO ] 2022-04-22 08:42:53.287 [main] Search_Customer - clicked on search customer
+[INFO ] 2022-04-22 08:42:53.881 [main] Search_Customer - clicked on add more filter button
+[INFO ] 2022-04-22 08:42:54.376 [main] Search_Customer - option type has been selected
+[INFO ] 2022-04-22 08:42:54.591 [main] Search_Customer - input has been given
+[INFO ] 2022-04-22 08:42:54.704 [main] Search_Customer - clicked on apply button
+[INFO ] 2022-04-22 08:42:54.802 [main] Search_Customer - Search button is clicked
+[INFO ] 2022-04-22 08:42:54.910 [main] Search_Customer - Search button is clicked
+[INFO ] 2022-04-22 08:42:57.716 [main] Create_Design_Order - clicked on action button
+[INFO ] 2022-04-22 08:42:58.354 [main] Create_Design_Order - Clicked on create design order
+[INFO ] 2022-04-22 08:42:58.665 [main] Create_Design_Order - segment type is selected
+[INFO ] 2022-04-22 08:42:58.968 [main] Create_Design_Order - jewel type is selected
+[INFO ] 2022-04-22 08:42:59.216 [main] Create_Design_Order - expected gross wt is entered
+[INFO ] 2022-04-22 08:42:59.405 [main] Create_Design_Order - expected net wt is entered
+[INFO ] 2022-04-22 08:42:59.500 [main] Create_Design_Order - clicked on design form
+[INFO ] 2022-04-22 08:42:59.664 [main] Create_Design_Order - clicked design due date
+[INFO ] 2022-04-22 08:43:00.066 [main] Create_Design_Order - Due date month has selected
+[INFO ] 2022-04-22 08:43:00.313 [main] Create_Design_Order - due date year has selected
+[INFO ] 2022-04-22 08:43:00.758 [main] Create_Design_Order - due day is selected
+[INFO ] 2022-04-22 08:43:00.860 [main] Create_Design_Order - designer is selected
+[INFO ] 2022-04-22 08:43:01.042 [main] Create_Design_Order - designer name is selected
+[INFO ] 2022-04-22 08:43:01.168 [main] Create_Design_Order - no of designs entered
+[INFO ] 2022-04-22 08:43:01.299 [main] Create_Design_Order - Page ref no is entered
+[INFO ] 2022-04-22 08:43:01.404 [main] Create_Design_Order - designs has been uploaded
+[INFO ] 2022-04-22 08:43:01.531 [main] Create_Design_Order - design instruction is entered
+[INFO ] 2022-04-22 08:43:01.706 [main] Create_Design_Order - intimation mode has selected
+[INFO ] 2022-04-22 08:43:01.867 [main] Create_Design_Order - clicked on customer due date
+[INFO ] 2022-04-22 08:43:02.042 [main] Create_Design_Order - customer due month selected
+[INFO ] 2022-04-22 08:43:02.240 [main] Create_Design_Order - customer due year selected
+[INFO ] 2022-04-22 08:43:03.280 [main] Create_Design_Order - clicked on next button
+[INFO ] 2022-04-22 08:43:33.022 [main] Sales_Login - username is entered
+[INFO ] 2022-04-22 08:43:33.125 [main] Sales_Login - password is entered
+[INFO ] 2022-04-22 08:43:33.575 [main] Sales_Login - clicked on login button
+[INFO ] 2022-04-22 08:48:52.319 [main] Create_Vendor_Return - username is entered
+[INFO ] 2022-04-22 08:48:52.443 [main] Create_Vendor_Return - password is entered
+[INFO ] 2022-04-22 08:48:55.708 [main] Create_Vendor_Return - clicked on login button
+[INFO ] 2022-04-22 08:55:10.492 [main] Create_Vendor_Return - username is entered
+[INFO ] 2022-04-22 08:55:10.613 [main] Create_Vendor_Return - password is entered
+[INFO ] 2022-04-22 08:55:13.873 [main] Create_Vendor_Return - clicked on login button
+[INFO ] 2022-04-22 08:56:32.427 [main] OE_Login - username is entered
+[INFO ] 2022-04-22 08:56:32.589 [main] OE_Login - password is entered
+[INFO ] 2022-04-22 08:56:35.340 [main] OE_Login - clicked on login button
+[INFO ] 2022-04-22 08:59:18.516 [main] OE_Login - username is entered
+[INFO ] 2022-04-22 08:59:18.617 [main] OE_Login - password is entered
+[INFO ] 2022-04-22 08:59:21.293 [main] OE_Login - clicked on login button
+[INFO ] 2022-04-22 09:02:24.635 [main] OE_Login - username is entered
+[INFO ] 2022-04-22 09:02:24.751 [main] OE_Login - password is entered
+[INFO ] 2022-04-22 09:02:28.360 [main] OE_Login - clicked on login button

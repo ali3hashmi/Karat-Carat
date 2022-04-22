@@ -29,24 +29,53 @@ public class ReadConfig {
 		
 	}
 	
-	public String getAppURL() {
+	public String getEnvironment() {
+		String environment = pro.getProperty("environment");
+		return environment;
+		
+	}
+	public String getBrowser() {
+		String browser = pro.getProperty("browser");
+		return browser;
+		
+	}
 	
-		String url = pro.getProperty("baseURL");
+	public String getSalesURL() {
+	
+		String url = pro.getProperty("salesURL");
 		return url;
 	}
 	
+	public String getOEURL() {
+		
+		String oeURL =pro.getProperty("oeURL");
+		return oeURL;
+	}
+	
+	
 	public String getUserName() {
 		
-		String username =pro.getProperty("username");
-		return username;
+		String salesUsername =pro.getProperty("salesusername");
+		return salesUsername;
 	}
 	
 	public String getPassword() {
 		
-		String password =pro.getProperty("password");
-		return password;
+		String salesPassword =pro.getProperty("salespassword");
+		return salesPassword;
 	}
 	
+	public String getOEUserName() {
+		
+		String oeUsername = pro.getProperty("oeusername");
+		return oeUsername;
+	}
+	
+	public String getOEPassWord() {
+		
+		String oePassword =pro.getProperty("oepassword");
+		return oePassword;
+	}
 	public String getChromePath() {
 		
 		String chromepath = pro.getProperty("chromepath");
